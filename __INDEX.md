@@ -1,3 +1,9 @@
+---
+title: Home
+description: Anything Goes - the blog written by its readers.
+author: LewisTehMinerz
+---
+
 # Anything Goes
 *The blog platform where the posts are written by the readers.*
 

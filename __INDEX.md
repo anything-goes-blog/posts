@@ -1,6 +1,5 @@
 ---
 title: Home
-description: Anything Goes - the blog written by its readers.
 author: LewisTehMinerz
 ---
 

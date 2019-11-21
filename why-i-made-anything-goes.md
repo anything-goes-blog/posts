@@ -30,7 +30,7 @@ make it SPA + SSR as well, but I'm not sure how utterances would like that. Anyw
 Automation will come at a later point but not right now. Posts don't have time tracking on them either. If I was to do this as a proper
 platform and not a single HTML file hosted on GitHub, it would be time tracked (based on the commit time rather than when the server first
 retrieved the post). It would also be much prettier with an actual blog design rather than this header and content system I have right
-now, also having a latest posts (which I am trying to implement but that is a lot of API requests I have to make to GitHub right now...).
+now, also having a latest post (which I am trying to implement but that is a lot of API requests I have to make to GitHub right now...).
 
 ## Moving off of GitHub?
 Anything Goes might just become completely independent of GitHub all together. It might have its own post submission feature for review by

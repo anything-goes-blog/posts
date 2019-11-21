@@ -3,5 +3,4 @@ title: test post
 author: LewisTehMinerz
 ---
 
-# test post
-wow
+wow this is a very cool post on anything goes

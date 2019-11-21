@@ -1,8 +1,3 @@
----
-title: Home
-author: LewisTehMinerz
----
-
 # Anything Goes
 *The blog platform where the posts are written by the readers.*
 
